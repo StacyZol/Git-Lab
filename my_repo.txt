@@ -1,0 +1,2 @@
+1) Link to Stacy’s: https://github.com/StacyZol/git-and-github-practice-two
+2) Link to Eric’s (the one I forked): https://github.com/StacyZol/GALAB
